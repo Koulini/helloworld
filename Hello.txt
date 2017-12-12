@@ -2,3 +2,4 @@ HELLO WORLD
 
 TRY merging two commits
 
+TRY removing the commits
