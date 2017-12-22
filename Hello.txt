@@ -2,9 +2,4 @@ HELLO WORLD
 
 TRY merging two commits
 
-<<<<<<< Updated upstream
-TRY removing the commits
-=======
-TRY removing the commit
->>>>>>> Stashed changes
-
+HELLO
